@@ -1,0 +1,20 @@
+# Airport Data Quality Monitor Requirements
+# Core data processing
+pandas>=1.5.0
+numpy>=1.23.0
+
+# Database connectivity
+pymysql>=1.0.2
+SQLAlchemy>=1.4.0
+
+# Visualization
+matplotlib>=3.6.0
+seaborn>=0.12.0
+plotly>=5.11.0
+
+# Web dashboard
+streamlit>=1.25.0
+
+
+
+
