@@ -424,8 +424,8 @@ class AirportDataMonitor:
         Run the complete data quality analysis pipeline
         
         Args:
-            data_source (str): 'database' or 'csv'
-            file_path (str): Path to CSV file if using CSV source
+            data_source (str): 'database'
+            
 
         """
         print("🚀 Starting Airport Data Quality Analysis")
