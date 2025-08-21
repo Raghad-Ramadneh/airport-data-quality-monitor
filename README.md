@@ -5,7 +5,6 @@ A simplified, professional tool for monitoring and analyzing the quality of airp
 ## 🎯 Features
 
 - **Database Connectivity**: Direct connection to MySQL databases
-- **CSV File Support**: Alternative data loading from CSV files
 - **Missing Values Analysis**: Identify incomplete data and critical gaps
 - **Outlier Detection**: Statistical methods (Z-score, IQR) to find unusual values
 - **Duplicate Detection**: Find exact duplicates and key field duplicates
