@@ -411,7 +411,6 @@ def main():
 	 format_func=lambda x: "MySQL Database"
     )
 
-    # File upload for CSV
     uploaded_file = None
     file_path = None
     
